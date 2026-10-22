@@ -3,23 +3,7 @@ AI-powered training deck creation using NotebookLM, Gamma AI, Napkin AI, and Can
 
 
 
-training-deck-using-notebooklm-gamma-ai/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── sources/
-│   └── source_links.md
-│
-├── outputs/
-│   └── marketing_intern_training.pdf
-│
-├── infographics/
-│   └── marketing_workflow.png
-│
-└── screenshots/
-    └── presentation_preview.png
+
 
 
     # Create a Training Deck Using NotebookLM, Gamma AI, Napkin AI & Canva
