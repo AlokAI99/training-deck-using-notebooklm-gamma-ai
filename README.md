@@ -6,7 +6,6 @@ AI-powered training deck creation using NotebookLM, Gamma AI, Napkin AI, and Can
 
 
 
-    # Create a Training Deck Using NotebookLM, Gamma AI, Napkin AI & Canva
 
 ## 📌 Project Overview
 
