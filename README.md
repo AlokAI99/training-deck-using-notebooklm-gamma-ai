@@ -7,7 +7,7 @@ AI-powered training deck creation using NotebookLM, Gamma AI, Napkin AI, and Can
 
 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates how AI tools can automate the creation of a training deck for new Marketing Interns.
 
@@ -15,7 +15,7 @@ By combining NotebookLM, Gamma AI, Napkin AI, and Canva, the workflow transforms
 
 The primary objective is to reduce repetitive manual work while maintaining accuracy, clarity, and visual consistency through human review.
 
-## 🎯 Use Case
+##  Use Case
 
 Create an engaging training deck for new Marketing Interns by automating:
 
@@ -27,7 +27,7 @@ Create an engaging training deck for new Marketing Interns by automating:
 - Slide design and visual polishing
 - Final review and export
 
-## 🧠 Mindset & Thought Process
+##  Mindset & Thought Process
 
 The workflow begins by identifying repetitive and time-consuming tasks that can be assisted by AI.
 
